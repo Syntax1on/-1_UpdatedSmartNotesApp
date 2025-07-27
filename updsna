@@ -1,0 +1,21 @@
+Smart Notes App is a modern, fullstack AI-enhanced notes application designed to help users take, organize, and summarize notes intelligently using GPT-based AI.
+
+🧩 Stack Used
+Layer	Technology
+Frontend	Next.js (JavaScript, App Router)
+Styling	Tailwind CSS
+Backend API	Next.js API Routes (Node.js)
+State/UI	React (built into Next.js)
+Auth (Next)	To be added (NextAuth.js)
+AI Features	To be added (OpenAI API)
+Database	To be added (PostgreSQL via Prisma)
+Search	Planned (pgvector + Embeddings)
+
+✅ Current Features (v0.1)
+📦 Project scaffolding with modern structure.
+
+🌐 Tailwind CSS and Next.js integration.
+
+🧪 Home page and global layout with dark-friendly theming.
+
+📁 Folder structure set up for scalability (API, dashboard, login, components, etc).
